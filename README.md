@@ -9,7 +9,7 @@ I am an engineering graduate with a primary focus on autonomous technologies, ro
 - 📫 **How to reach me:** [https://www.linkedin.com/in/mahmoud-hossam-143810312/?skipRedirect=true]
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** C++, C
+* **Languages:** C++, C ,python
 * **Hardware & Systems:** STM32, ESP32, Embedded Systems integration
 * **Core Competencies:** Autonomous Systems, TinyML, Mathematical Modeling
 
