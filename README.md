@@ -10,7 +10,7 @@ I am an engineering graduate with a primary focus on autonomous technologies, ro
 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** C++, C ,python
-* **Hardware & Systems:** STM32, ESP32, Embedded Systems integration
+* **Hardware & Systems:** STM32, ESP32, Embedded Systems integration,automotive
 * **Core Competencies:** Autonomous Systems, TinyML, Mathematical Modeling
 
 ---
